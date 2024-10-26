@@ -48,14 +48,14 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px>  </picture> Web Development
 
-![HTML5](https://img.shields.io/badge/-HTML5-blue&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-blueviolet&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000?&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js&logoColor=green)
-![Vue.js](https://img.shields.io/badge/-Vue.js-green&logo=vue.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS&logoColor=38B2AC)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=7952B3)
@@ -66,6 +66,7 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 25px>  </picture> Data Analysis
 
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
+![Numpy](https://img.shields.io/badge/Numpy-numpy-000&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
