@@ -85,15 +85,17 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> IDEs
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual-Studio-Code&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=white)&nbsp;
 
 <br>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 25px>  </picture> Operating Systems
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
-![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu&logoColor=white)&nbsp;
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?&logo=KaliLinux&logoColor=white)&nbsp;
+![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian&logoColor=white)&nbsp;
+![Android](https://img.shields.io/badge/-Android-000?&logo=android&logoColor=white)&nbsp;
 
 
