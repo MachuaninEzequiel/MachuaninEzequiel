@@ -72,15 +72,14 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 25px>  </picture> Data Analysis
 
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
-![Numpy](https://img.shields.io/badge/Numpy-numpy-000&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-black&logo=opencv&logoColor=blueviolet)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange&logo=tensorflow)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-purple&logo=matplotlib)
-![Excel](https://img.shields.io/badge/-Excel-green&logo=microsoft-excel)
+![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas&logoColor=white)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/-PowerBI-000?&logo=Power%20BI&logoColor=white)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv&logoColor=blueviolet)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow&logoColor=orange)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=matplotlib&logoColor=purple)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel&logoColor=green)
 
 <br>
 
