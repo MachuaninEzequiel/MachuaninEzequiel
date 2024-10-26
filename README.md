@@ -37,7 +37,8 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Pseudocode](https://img.shields.io/badge/-Pseudocode-000?&logo=Codecademy&logoColor=white)
+![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=Csharp&logoColor=white)
 
