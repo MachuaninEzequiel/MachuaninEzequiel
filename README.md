@@ -3,11 +3,11 @@
 <br><br>
 <p align="center">
   <em>
-    <h2>👋 Hi! I’m Ezequiel</h2><br>
+    <h2>👋 Hi! I’m Ezequiel</h2>
 I'm 25 years old and currently in the advanced stages of my studies in Information Systems Engineering at UTN (National Technological University), Resistencia Campus. I also hold an advanced level of English after more than 10 years of academic study.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+
 </p>
 
 <br><br>
@@ -15,7 +15,7 @@ I'm 25 years old and currently in the advanced stages of my studies in Informati
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-<h2>🚀 Interests and Expertise</h2><br>
+<h2>🚀 Interests and Expertise</h2>
 My primary areas of interest lie in data science and analytics, fields in which I've built a strong foundation. I also enjoy scripting to automate tasks and modeling coding competitions for fun. I firmly believe in the power of data to deliver value and practical solutions across any domain.<br>
 <h2>🎯 Aspirations</h2><br>
 My ultimate goal is to combine two of my passions: data science and soccer. I would love to work as an analyst and lead data collection for major soccer clubs. In the near term, I plan to develop a web app to collect and share statistics for the local soccer leagues in my city, giving clubs an accessible way to analyze and compare performance.<br>
