@@ -30,7 +30,7 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 
  <br><br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="60px">&nbsp;***My working tools...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 
 
 <br><br>
