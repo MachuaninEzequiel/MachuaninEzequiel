@@ -28,9 +28,12 @@ I am always open to collaborating with passionate people who are eager to take o
 <h2>🏢 Professional Experience</h2>
 For the past two years, I've been part of CInApTIC (Applied Research Center for Information and Communication Technologies) at my university, contributing to a project focused on improving the deliverable processes within software development companies.<br><br>
 
- 
+ <br><br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="60px">&nbsp;***My working tools...***</h1>
+
+
+<br><br>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px>  </picture> Programming languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
