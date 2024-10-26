@@ -42,3 +42,19 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=Csharp&logoColor=white)
 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px>  </picture> Web Development
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=white)
+![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js&logoColor=green)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS&logoColor=38B2AC)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=7952B3)
+![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)
+
+
