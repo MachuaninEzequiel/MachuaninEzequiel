@@ -45,6 +45,7 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=Csharp&logoColor=white)
 
 <br>
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px>  </picture> Web Development
 
 ![HTML5](https://img.shields.io/badge/-HTML5-blue&logo=html5)
@@ -61,6 +62,7 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)
 
 <br>
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 25px>  </picture> Data Analysis
 
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
@@ -69,12 +71,14 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
 
 <br>
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
 <br>
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 25px>  </picture> Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
