@@ -30,4 +30,14 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 
  
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 40px>  </picture>***My working tools...***
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 30px>  </picture>***My working tools...***
+
+### Programming languages:
+&emsp;
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+
