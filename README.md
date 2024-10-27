@@ -4,7 +4,7 @@
 <p align="center">
   <em>
     <h1>Welcome to my GitHub! Let me introduce myself:</h1>
-                  I'm 25 years old and currently in the advanced stages of my studies in Information Systems Engineering at UTN (National Technological University), Resistencia Campus. 
+                  I'm 25 years old and currently in the advanced stages of my studies in Information Systems Engineering at UTN (Universidad Tecnologica Nacional), regional Resistencia. 
                                       I also hold an advanced level of English after more than 10 years of academic study.
   </em> 
   <br>
