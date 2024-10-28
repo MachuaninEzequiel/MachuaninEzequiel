@@ -75,9 +75,9 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=numpy&logoColor=4FA9DC)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas&logoColor=150458)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau&logoColor=E97627)&nbsp;
-![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=powerbi&logoColor=F2C811)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv&logoColor=5C3EE8)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow&logoColor=FF6F00)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=powerbi&logoColor=F2C811)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=matplotlib&logoColor=8E44AD)&nbsp;
 ![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoftexcel&logoColor=217346)&nbsp;
 
