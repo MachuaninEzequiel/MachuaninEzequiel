@@ -36,7 +36,7 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 <br><br>
 
 <div style="display: flex; justify-content: space-between;">
-  <div>
+  <div style="margin-right: 20px;">
     ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px>  </picture> Programming Languages
 
 | ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) | ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) | ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC) |
@@ -45,7 +45,7 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
   
 <br>
   </div>
-  <div>
+  <div style="margin-left: 20px;">
     ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px>  </picture> Web Development
 
 | ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5) | ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6) | ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) |
