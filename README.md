@@ -41,7 +41,6 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 | --- | --- | --- |
 | ![Pseudocode](https://img.shields.io/badge/-Pseudocode-000?&logo=Codecademy&logoColor=white) | ![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=A8B9CC) | ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C) |
   
----
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px>  </picture> Web Development
 
