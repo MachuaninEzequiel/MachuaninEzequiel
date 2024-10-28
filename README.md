@@ -40,24 +40,24 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![Pseudocode](https://img.shields.io/badge/-Pseudocode-000?&logo=Codecademy&logoColor=white)
-![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=Csharp&logoColor=white)
+![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=239120)&nbsp;
 
 <br>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px>  </picture> Web Development
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000?&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-000?&logo=django&logoColor=092E20)&nbsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js&logoColor=green)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS&logoColor=38B2AC)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=7952B3)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)
 
