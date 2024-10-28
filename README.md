@@ -30,7 +30,9 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 
  <br><br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=My+working+tools&center=true&width=500&height=50"></a>
+</p>
 
 
 <br><br>
@@ -61,12 +63,6 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=7952B3)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)
 
-<br>
-<br>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Work+in+progress&center=true&width=500&height=50"></a>
-</p>
-<br>
 <br>
 
 
