@@ -83,6 +83,15 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 
 <br>
 
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="25px"> </picture> Databases
+
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=4479A1)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql&logoColor=316192)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=003B57)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)&nbsp;
+
+<br>
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code&logoColor=007ACC)&nbsp;
