@@ -26,7 +26,7 @@ I’m currently working on a project that supports students across different col
 <h2>🤝 Collaboration and Development</h2>
 I am always open to collaborating with passionate people who are eager to take on challenging projects. If you have an idea or think we could work together on something meaningful, feel free to reach out!<br><br>
 <h2>🏢 Professional Experience</h2>
-For the past two years, I've been part of CInApTIC (Applied Research Center for Information and Communication Technologies) at my university, contributing to a project focused on improving the deliverable processes within software development companies.<br><br>
+For the past two years, I've been part of CInApTIC (Applied Research Center for Information and Communication Technologies) at my university, contributing to a project focused on improving the deliverable processes within Agile Software Development companies.<br><br>
 
  <br><br>
 
@@ -72,30 +72,30 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 25px>  </picture> Data Analysis
 
-![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas&logoColor=white)&nbsp;
-![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=powerbi&logoColor=white)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv&logoColor=blueviolet)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow&logoColor=orange)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=matplotlib&logoColor=purple)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel&logoColor=white)
+![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=numpy&logoColor=4FA9DC)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas&logoColor=150458)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau&logoColor=E97627)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=powerbi&logoColor=F2C811)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv&logoColor=5C3EE8)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow&logoColor=FF6F00)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=matplotlib&logoColor=8E44AD)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel&logoColor=217346)
 
 <br>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> IDEs
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual-Studio-Code&logoColor=white)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual-Studio-Code&logoColor=007ACC)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=F37626)&nbsp;
 
 <br>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 25px>  </picture> Operating Systems
 
-![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu&logoColor=white)&nbsp;
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?&logo=KaliLinux&logoColor=white)&nbsp;
-![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian&logoColor=white)&nbsp;
-![Android](https://img.shields.io/badge/-Android-000?&logo=android&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=00ADEF)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu&logoColor=E95420)&nbsp;
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?&logo=KaliLinux&logoColor=557C94)&nbsp;
+![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian&logoColor=A81D33)&nbsp;
+![Android](https://img.shields.io/badge/-Android-000?&logo=android&logoColor=3DDC84)&nbsp;
 
 
