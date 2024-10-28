@@ -31,7 +31,7 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
  <br><br>
 
 <p align="center">
-  <<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=My+working+tools&center=true&width=400&height=50&size=35"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=My+working+tools&center=true&width=400&height=50&size=35"></a>
 </p>
 
 
