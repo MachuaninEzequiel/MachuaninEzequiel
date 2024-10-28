@@ -35,20 +35,24 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 
 <br><br>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px>  </picture> Programming Languages
+<div style="display: flex; justify-content: space-between;">
+  <div style="margin-right: 20px;">
+    ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=25px>  </picture> Programming Languages
+    <br>
+    | ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) | ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) | ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC) |
+    | --- | --- | --- |
+    | ![Pseudocode](https://img.shields.io/badge/-Pseudocode-000?&logo=Codecademy&logoColor=white) | ![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=A8B9CC) | ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C) |
+  </div>
 
-| ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) | ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) | ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC) |
-| --- | --- | --- |
-| ![Pseudocode](https://img.shields.io/badge/-Pseudocode-000?&logo=Codecademy&logoColor=white) | ![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=A8B9CC) | ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C) |
-  
----
+  <div>
+    ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=30px>  </picture> Web Development
+    <br>
+    | ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5) | ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6) | ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) |
+    | --- | --- | --- |
+    | ![Django](https://img.shields.io/badge/-Django-000?&logo=django&logoColor=092E20) | ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB) | ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=white) |
+  </div>
+</div>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px>  </picture> Web Development
-
-| ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5) | ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6) | ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) |
-| --- | --- | --- |
-| ![Django](https://img.shields.io/badge/-Django-000?&logo=django&logoColor=092E20) | ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB) | ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=white) |
-  
 ---
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 25px>  </picture> Data Analysis
