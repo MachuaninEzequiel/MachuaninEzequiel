@@ -35,49 +35,109 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 
 <br><br>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px>  </picture> Programming Languages
-
-| ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) | ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) | ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC) |
-| --- | --- | --- |
-| ![Pseudocode](https://img.shields.io/badge/-Pseudocode-000?&logo=Codecademy&logoColor=white) | ![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=A8B9CC) | ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C) |
-  
----
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px>  </picture> Web Development
-
-| ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5) | ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6) | ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) |
-| --- | --- | --- |
-| ![Django](https://img.shields.io/badge/-Django-000?&logo=django&logoColor=092E20) | ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB) | ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=white) |
-  
----
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 25px>  </picture> Data Analysis
-
-| ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=numpy&logoColor=4FA9DC) | ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas&logoColor=150458) | ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau&logoColor=E97627) |
-| --- | --- | --- |
-| ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv&logoColor=5C3EE8) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow&logoColor=FF6F00) | ![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=power-bi&logoColor=F2C811) |
-
----
-
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="25px"> </picture> Databases
-
-| ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=4479A1) | ![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql&logoColor=316192) | ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=003B57) |
-| --- | --- | --- |
-| ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248) |  |  |
-
----
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> IDEs
-
-| ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code&logoColor=007ACC) | ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=F37626) | |
-| --- | --- | --- |
-
----
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 25px>  </picture> Operating Systems
-
-| ![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows&logoColor=00ADEF) | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu&logoColor=E95420) | ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?&logo=KaliLinux&logoColor=557C94) |
-| --- | --- | --- |
-| ![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian&logoColor=A81D33) | ![Android](https://img.shields.io/badge/-Android-000?&logo=android&logoColor=3DDC84) | |
+<table>
+  <tr>
+    <td align="center">
+      <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=25px></picture>
+      <b>Programming Languages</b>
+      <br>
+      <table>
+        <tr>
+          <td>![Python](https://img.shields.io/badge/-Python-000?&logo=Python)</td>
+          <td>![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)</td>
+          <td>![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)</td>
+        </tr>
+        <tr>
+          <td>![Pseudocode](https://img.shields.io/badge/-Pseudocode-000?&logo=Codecademy&logoColor=white)</td>
+          <td>![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=A8B9CC)</td>
+          <td>![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C)</td>
+        </tr>
+        <tr>
+          <td colspan="3">![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=239120)</td>
+        </tr>
+      </table>
+    </td>
+    <td align="center">
+      <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=30px></picture>
+      <b>Web Development</b>
+      <br>
+      <table>
+        <tr>
+          <td>![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)</td>
+          <td>![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6)</td>
+          <td>![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)</td>
+        </tr>
+        <tr>
+          <td>![Django](https://img.shields.io/badge/-Django-000?&logo=django&logoColor=092E20)</td>
+          <td>![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)</td>
+          <td>![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=white)</td>
+        </tr>
+      </table>
+    </td>
+    <td align="center">
+      <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=25px></picture>
+      <b>Data Analysis</b>
+      <br>
+      <table>
+        <tr>
+          <td>![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=numpy&logoColor=4FA9DC)</td>
+          <td>![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas&logoColor=150458)</td>
+          <td>![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau&logoColor=E97627)</td>
+        </tr>
+        <tr>
+          <td>![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv&logoColor=5C3EE8)</td>
+          <td>![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow&logoColor=FF6F00)</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=25px></picture>
+      <b>Databases</b>
+      <br>
+      <table>
+        <tr>
+          <td>![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=4479A1)</td>
+          <td>![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql&logoColor=316192)</td>
+          <td>![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=003B57)</td>
+        </tr>
+        <tr>
+          <td colspan="3">![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)</td>
+        </tr>
+      </table>
+    </td>
+    <td align="center">
+      <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=25px></picture>
+      <b>IDEs</b>
+      <br>
+      <table>
+        <tr>
+          <td>![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code&logoColor=007ACC)</td>
+          <td>![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=F37626)</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td align="center">
+      <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=25px></picture>
+      <b>Operating Systems</b>
+      <br>
+      <table>
+        <tr>
+          <td>![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows&logoColor=00ADEF)</td>
+          <td>![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu&logoColor=E95420)</td>
+          <td>![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?&logo=KaliLinux&logoColor=557C94)</td>
+        </tr>
+        <tr>
+          <td>![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian&logoColor=A81D33)</td>
+          <td>![Android](https://img.shields.io/badge/-Android-000?&logo=android&logoColor=3DDC84)</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 
