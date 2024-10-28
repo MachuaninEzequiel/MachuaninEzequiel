@@ -69,7 +69,7 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> IDEs
 
-| ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code&logoColor=007ACC) | ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=F37626) | |
+| ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code&logoColor=007ACC) | ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=F37626) | ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visual-studio&logoColor=007ACC) |
 | --- | --- | --- |
 
 ---
