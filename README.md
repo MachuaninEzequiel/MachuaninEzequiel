@@ -35,7 +35,7 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 
 <br><br>
 
-<div>
+<div style="display: flex; justify-content: space-between;">
   <div>
     ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px>  </picture> Programming Languages
 
