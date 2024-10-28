@@ -83,7 +83,7 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 
 <br>
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="25px"> </picture> Databases
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="25px"> </picture> Databases
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=4479A1)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql&logoColor=316192)&nbsp;
