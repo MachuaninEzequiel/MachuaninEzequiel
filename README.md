@@ -55,13 +55,13 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 
 | ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=4479A1) | ![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql&logoColor=316192) | ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=003B57) |
 | --- | --- | --- |
-| ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248) |  |  |
+| ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248) |
 
 ---
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> IDEs
 
-| ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code&logoColor=007ACC) | ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=F37626) | |
+| ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code&logoColor=007ACC) | ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=F37626) |
 | --- | --- | --- |
 
 ---
@@ -70,5 +70,5 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 
 | ![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows&logoColor=00ADEF) | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu&logoColor=E95420) | ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?&logo=KaliLinux&logoColor=557C94) |
 | --- | --- | --- |
-| ![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian&logoColor=A81D33) | ![Android](https://img.shields.io/badge/-Android-000?&logo=android&logoColor=3DDC84) | |
+| ![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian&logoColor=A81D33) | ![Android](https://img.shields.io/badge/-Android-000?&logo=android&logoColor=3DDC84) |
 
