@@ -41,6 +41,7 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 | --- | --- | --- |
 | ![Pseudocode](https://img.shields.io/badge/-Pseudocode-000?&logo=Codecademy&logoColor=white) | ![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=A8B9CC) | ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C) |
   
+<br>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px>  </picture> Web Development
 
@@ -48,7 +49,7 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 | --- | --- | --- |
 | ![Django](https://img.shields.io/badge/-Django-000?&logo=django&logoColor=092E20) | ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB) | ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=white) |
   
----
+<br>
 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 25px>  </picture> Data Analysis
@@ -57,7 +58,7 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 | --- | --- | --- |
 | ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv&logoColor=5C3EE8) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow&logoColor=FF6F00) | ![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=power-bi&logoColor=F2C811) |
 
----
+<br>
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="25px"> </picture> Databases
 
@@ -65,17 +66,23 @@ For the past two years, I've been part of CInApTIC (Applied Research Center for 
 | --- | --- | --- |
 | ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248) |  |  |
 
----
+<br>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> IDEs
 
 | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code&logoColor=007ACC) | ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=F37626) | ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visual-studio&logoColor=007ACC) |
 | --- | --- | --- |
 
----
+<br>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 25px>  </picture> Operating Systems
 
 | ![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows&logoColor=00ADEF) | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu&logoColor=E95420) | ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?&logo=KaliLinux&logoColor=557C94) |
 | --- | --- | --- |
 | ![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian&logoColor=A81D33) | ![Android](https://img.shields.io/badge/-Android-000?&logo=android&logoColor=3DDC84) | |
+
+
+<br>
+
+
+
