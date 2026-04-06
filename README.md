@@ -1,22 +1,26 @@
 <div align="center">
-Ezequiel Machuanin
-Information Systems Engineering · UTN Resistencia
-Data science & analytics · Football analytics · Automation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=Ezequiel%20Machuanin&fontSize=36&fontColor=e2e8f0&fontAlignY=65&desc=Information%20Systems%20Engineering%20·%20UTN%20Resistencia&descSize=14&descAlignY=85&descColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,100:e2e8f0&height=120&section=header&text=Ezequiel%20Machuanin&fontSize=36&fontColor=1e293b&fontAlignY=65&desc=Information%20Systems%20Engineering%20·%20UTN%20Resistencia&descSize=14&descAlignY=85&descColor=64748b" />
+</picture>
 </div>
+<br>
+Tengo 27 años y estoy terminando Ingeniería en Sistemas de Información en UTN Resistencia. Casi todo lo que me mueve está en la intersección entre data science y fútbol — creo genuinamente que esas dos cosas deberían estar más juntas de lo que la industria las trata.
+Desde hace cuatro años soy parte de CInApTIC, el centro de investigación aplicada de mi universidad, donde trabajamos en un proyecto que analiza y mejora los procesos de entrega en empresas de software ágil.
+<br>
 
-About
-I'm 25, in the advanced stages of my degree at UTN Resistencia, and I've spent the last few years figuring out what I actually want to do with data — which turns out to be: make it useful for real problems.
-Right now I'm part of CInApTIC, the applied research center at my university, working on a project that studies and improves deliverable processes in agile software companies. Before that sounds too corporate: I mostly like data because of football.
-My longer-term goal is to work as an analyst for a football club — collecting data, building models, surfacing insights that actually help people make decisions on and off the pitch. As a first step, I'm building a web app to track and share statistics for local leagues in Resistencia, because that data basically doesn't exist yet and it should.
-I'm also interested in esports analytics — there's a lot of room for serious analysis there and not enough people doing it well.
-On the side, I work on a project that uses LLMs to detect and interpret emotions in students across universities, with the goal of improving how they connect and understand each other regardless of language or background.
+En qué estoy trabajando
+Plataforma de análisis para fútbol local — Casi no existe data estructurada para las ligas locales de Resistencia. Estoy construyendo una app web para recolectar, registrar y publicar estadísticas de partidos, para que los clubes puedan comparar y analizar su rendimiento. Empezando local, pensando más grande.
+Detección de emociones en estudiantes — Un proyecto que usa LLMs para detectar e interpretar emociones en estudiantes universitarios, con el objetivo de mejorar cómo se conectan y entienden entre sí sin importar el idioma o la edad.
+Competitive programming — Modelo problemas y escribo scripts de automatización por diversión. Mantiene el pensamiento algorítmico activo.
+<br>
 
 Stack
-Languages — Python, JavaScript / TypeScript, C, C++, C#
-Web — React, Next.js, Vue, Django, Flask, Node.js, TailwindCSS
-Data — Pandas, NumPy, TensorFlow, OpenCV, Matplotlib, Tableau, Power BI
-Databases — PostgreSQL / SQL, MySQL, SQLite, MongoDB
-Tools — VS Code, Jupyter, Git, Ubuntu / Debian
+ÁreaHerramientasLenguajesPython · JavaScript · TypeScript · C · C++ · C#WebReact · Next.js · Vue · Django · Flask · Node.js · TailwindCSSDatos & MLPandas · NumPy · TensorFlow · OpenCV · Matplotlib · Tableau · Power BIBases de datosPostgreSQL · MySQL · SQLite · MongoDBEntornoVS Code · Jupyter · Git · Linux (Ubuntu / Debian)
+<br>
 
-Let's talk
-If you're working on something in football analytics, esports, or ML applications and want a collaborator — or if you just want to exchange ideas — reach out.
+A dónde voy
+Mi objetivo es trabajar como analista de datos en un club de fútbol — no en el sentido vago de "el data es el futuro", sino específicamente: recolectar datos de eventos, construir modelos de evaluación, y hacer que los insights cambien decisiones reales dentro y fuera del campo.
+También me interesa la analítica de esports por razones similares — hay mucho espacio para análisis serio ahí y todavía no hay muchos haciéndolo bien.
+Si estás trabajando en alguna de esas áreas, o tenés un proyecto que necesita a alguien que se preocupe por hacer el data realmente útil, escribime.
+<br>
