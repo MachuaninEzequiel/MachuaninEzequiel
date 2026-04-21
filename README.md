@@ -189,7 +189,7 @@
 
 <p align="center">
   <samp>
-    <a href="[https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/ezequiel-machuanin-535531218/)" target="_blank" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/ezequiel-machuanin-535531218/" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F1F1F" alt="LinkedIn"/>
     </a>
     &nbsp;
@@ -197,7 +197,7 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F1F1F" alt="Email"/>
     </a>
     &nbsp;
-    <a href="[https://github.com/MachuaninEzequiel](https://github.com/MachuaninEzequiel)" target="_blank" style="text-decoration: none;">
+    <a href="https://github.com/MachuaninEzequiel" target="_blank" style="text-decoration: none;">
     <a href="" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1F1F1F" alt="GitHub"/>
     </a>
