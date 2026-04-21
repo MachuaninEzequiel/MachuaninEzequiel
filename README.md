@@ -1,107 +1,215 @@
-<h1 align="center">Hi , I'm Ezequiel Machuanin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<br><br>
+<!-- ANIMATED BANNER: Efecto de escritura dinámica -->
 <p align="center">
-  <em>
-    <h1>Welcome to my GitHub! Let me introduce myself:</h1>
-                  I'm 25 years old and currently in the advanced stages of my studies in Information Systems Engineering at UTN (Universidad Tecnologica Nacional), regional Resistencia. 
-                                      I also hold an advanced level of English after more than 10 years of academic study.
-  </em> 
-  <br>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Ezequiel+Machuanin;Systems+Engineer;AI+Researcher;Global+Innovation+Winner" alt="Typing SVG" />
+  </a>
 </p>
 
-<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<br><br>
+<!-- SPACER: Línea de gradiente animada -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-<h2>🚀 Interests and Expertise</h2>
-My primary areas of interest lie in data science and analytics, fields in which I've built a strong foundation. I also enjoy scripting to automate tasks and modeling coding competitions for fun. I firmly believe in the power of data to deliver value and practical solutions across any domain.<br><br>
-<h2>🎯 Aspirations</h2>
-My ultimate goal is to combine two of my passions: data science and futbol. I would love to work as an analyst and lead data collection for major futbol clubs. In the near term, I plan to develop a web app to collect and share statistics for the local futbol leagues in my city, giving clubs an accessible way to analyze and compare performance. Additionally, I'm interested in applying data-driven techniques to optimize performance in emerging fields like esports. I'm eager to contribute to esports analytics by leveraging my skills in data analysis and machine learning to develop advanced models for player evaluation, strategy optimization, and predictive analytics.<br><br>
-<h2>💻 Current Projects</h2>
-I’m currently working on a project that supports students across different colleges and universities, regardless of language or age. This project uses machine learning to detect and understand emotions through a language model (LLM) that enhances interaction and understanding among students.<br><br>
-<h2>🏢 Professional Experience</h2>
-For the past two years, I've been part of CInApTIC (Applied Research Center for Information and Communication Technologies) at my university, contributing to a project focused on improving the deliverable processes within Agile Software Development companies.<br><br>
-<h2>🤝 Collaboration and Development</h2>
-I am always open to collaborating with passionate people who are eager to take on challenging projects. If you have an idea or think we could work together on something meaningful, feel free to reach out!<br><br>
-
-
- <br><br>
+<!-- ============================================= -->
+<!-- ABOUT ME (Incluye Investigación y Logro Huawei) -->
+<!-- ============================================= -->
+<br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=My+working+tools&center=true&width=400&height=50&size=35"></a>
+  <samp>
+    Advanced student in Information Systems Engineering at UTN.<br/>
+    <strong>4+ years of applied research</strong> in software quality metrics at CInApTIC.<br/>
+    <strong>World Champion</strong> in Huawei ICT Innovation Competition (Shenzhen, 2025).<br/>
+    Architecting the backend for the next-gen research toolkit derived from my academic work.
+  </samp>
 </p>
 
+<br/>
 
-<br><br>
+<!-- ============================================= -->
+<!-- CURRENT PROJECTS (Cortex destacado + Desplegados juntos) -->
+<!-- ============================================= -->
+<h2 align="center">
+  ━━━━━  ACTIVE FOCUS  ━━━━━
+</h2>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px>  </picture> Programming languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![Pseudocode](https://img.shields.io/badge/-Pseudocode-000?&logo=Codecademy&logoColor=white)
-![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=239120)&nbsp;
+<!-- GRID DE PROYECTOS: Layout de tarjetas moderno -->
+<div align="center">
 
-<br>
+<table>
+  <tr>
+    <!-- TARJETA 1: CORTEX (Enfoque principal) -->
+    <td width="50%" valign="top">
+      <h3 align="center">CORTEX</h3>
+      <p align="center">
+        <a href="https://github.com/MachuaninEzequiel/Cortex" target="_blank">
+          <img src="https://img.shields.io/badge/STATUS-Active-%23A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=1F1F1F" alt="Cortex Status"/>
+        </a>
+      </p>
+      <p align="center">
+        <samp>
+          Advanced multi-agent orchestration system.<br/>
+          Autonomous software development pipeline<br/>
+          with quality gates and measurable performance.
+        </samp>
+      </p>
+    </td>
+    <!-- TARJETA 2: WORLD CUP FIXTURE + NEO LETTER (Juntos, desplegados) -->
+    <td width="50%" valign="top">
+      <h3 align="center">DEPLOYED PRODUCTS</h3>
+      <div align="center">
+        <!-- World Cup Fixture -->
+        <a href="https://fixture-mundial-2026-henna.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/WORLD_CUP_FIXTURE-Deployed-%233B82F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1F1F1F" alt="Fixture Deployed"/>
+        </a>
+        <br/><br/>
+        <!-- Neo Letter -->
+        <a href="https://neoletter.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/NEO_LETTER-Deployed-%233B82F6?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=1F1F1F" alt="Neo Letter Deployed"/>
+        </a>
+      </div>
+      <p align="center" style="margin-top: 15px;">
+        <samp>
+          <strong>Fixture:</strong> Interactive 2026 World Cup schedule with real-time data.<br/>
+          <strong>Neo Letter:</strong> A living archive built with criteria, identity, and a record of what happens in the worlds that matter.
+        </samp>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- TARJETA 3: HUAWEI COMPETITION (Logro mundial) -->
+    <td width="50%" valign="top">
+      <h3 align="center">HUAWEI ICT COMPETITION</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/RESULT-Almost World_Champion-%23EAB308?style=for-the-badge&logo=huawei&logoColor=white&labelColor=1F1F1F" alt="Huawei Award"/>
+        </a>
+      </p>
+      <p align="center">
+        <samp>
+          <strong>Team Lead & Architect - HarmonIA</strong><br/>
+          1st Place: Argentina | Latin America | Global Finals (Shenzhen)<br/>
+          AI + IoT ecosystem for mental health prevention on Huawei Cloud.
+        </samp>
+      </p>
+    </td>
+    <!-- TARJETA 4: RESEARCH & BACKEND TOOL -->
+    <td width="50%" valign="top">
+      <h3 align="center">RESEARCH & TOOLING</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/ROLE-Backend_Architect-%236366F1?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1F1F1F" alt="Research Role"/>
+        </a>
+      </p>
+      <p align="center">
+        <samp>
+          <strong>4+ years at CInApTIC (UTN)</strong><br/>
+          Metrics for software quality in agile environments.<br/>
+          Currently building the backend for the research-derived evaluation toolkit.
+        </samp>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px>  </picture> Web Development
+</div>
 
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Django](https://img.shields.io/badge/-Django-000?&logo=django&logoColor=092E20)&nbsp;
-![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js&logoColor=green)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS&logoColor=38B2AC)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=7952B3)
-![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)
+<br/>
 
-<br>
+<!-- ============================================= -->
+<!-- TECH STACK (Minimalista, agentes actuales)    -->
+<!-- ============================================= -->
+<h2 align="center">
+  ━━━━━  CORE TOOLKIT  ━━━━━
+</h2>
 
+<p align="center">
+  <samp>Languages, Frameworks & Modern AI Agents</samp>
+</p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 25px>  </picture> Data Analysis
+<!-- LENGUAJES ESENCIALES -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,cs&theme=dark&perline=5" alt="Programming Languages" />
+  </a>
+</p>
 
-![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=numpy&logoColor=4FA9DC)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas&logoColor=150458)&nbsp;
-![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau&logoColor=E97627)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv&logoColor=5C3EE8)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow&logoColor=FF6F00)&nbsp;
-![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=power-bi&logoColor=F2C811)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=matplotlib&logoColor=8E44AD)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel&logoColor=217346)&nbsp;
+<!-- AGENTES DE IA: OpenCode & Qwen Code -->
+<div align="center">
+  <a href="https://github.com/rothnic/opencode-agents" target="_blank">
+    <img src="https://img.shields.io/badge/Agent-OpenCode-%2318181B?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=1F1F1F" alt="OpenCode" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/QwenLM/qwen-code" target="_blank">
+    <img src="https://img.shields.io/badge/Agent-Qwen_Code-%2318181B?style=for-the-badge&logo=alibabacloud&logoColor=FF6A00&labelColor=1F1F1F" alt="Qwen Code" />
+  </a>
+</div>
 
-<br>
+<br/>
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="25px"> </picture> Databases
+<!-- TOOLS & DATA (Incluye cloud y analítica) -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,postgres,mongodb,sklearn,tensorflow,pytorch,linux,react&theme=dark&perline=9" alt="Data & Tools" />
+  </a>
+</p>
 
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=4479A1)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql&logoColor=316192)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=003B57)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)&nbsp;
+<br/>
 
-<br>
+<!-- ============================================= -->
+<!-- GITHUB STATS (Estilo Terminal / Animado)      -->
+<!-- ============================================= -->
+<h2 align="center">
+  ━━━━━  CODE METRICS  ━━━━━
+</h2>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> IDEs
+<div align="center">
+  <!-- Estadísticas generales -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MachuaninEzequiel&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=3B82F6&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  
+  <!-- Lenguajes más usados (compacto) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MachuaninEzequiel&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=6&hide=html" alt="Top Languages" />
+</div>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=F37626)&nbsp;
+<div align="center">
+  <!-- Racha de contribuciones (animación de fuego) -->
+  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=MachuaninEzequiel&theme=dark&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=3B82F6&currStreakLabel=A855F7" alt="Contribution Streak" />
+</div>
 
-<br>
+<br/>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 25px>  </picture> Operating Systems
+<!-- ============================================= -->
+<!-- FOOTER: Conexión profesional                  -->
+<!-- ============================================= -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows&logoColor=00ADEF)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu&logoColor=E95420)&nbsp;
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?&logo=KaliLinux&logoColor=557C94)&nbsp;
-![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian&logoColor=A81D33)&nbsp;
-![Android](https://img.shields.io/badge/-Android-000?&logo=android&logoColor=3DDC84)&nbsp;
+<br/>
 
+<p align="center">
+  <samp>
+    <a href="https://www.linkedin.com/in/tu-perfil" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F1F1F" alt="LinkedIn"/>
+    </a>
+    &nbsp;
+    <a href="mailto:tu-email@example.com" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F1F1F" alt="Email"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/MachuaninEzequiel" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1F1F1F" alt="GitHub"/>
+    </a>
+  </samp>
+</p>
 
+<p align="center">
+  <samp>© 2026 · Crafted with focus and clean code.</samp>
+</p>
+
+<!--
+  IMPORTANTE: Reemplaza los placeholders:
+  - URL de World Cup Fixture (https://worldcup-fixture.vercel.app)
+  - URL de Neo Letter (https://neo-letter.vercel.app)
+  - Enlaces de LinkedIn y Email
+-->
